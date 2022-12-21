@@ -62,6 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <hr>
 
 Feito por <a href="https://github.com/GuWuelta" target="_blank">Gustavo Wuelta</a>
+<img src="https://avatars.githubusercontent.com/u/101107981?v=4" width="160px;" alt="Foto do Gustavo Wuelta no GitHub"/><br>
 
 &#xa0;
 

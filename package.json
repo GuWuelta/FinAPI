@@ -1,0 +1,26 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "description": "Repository that holds the financial API developed during Rocketseat's Ignite NodeJS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuWuelta/FinAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuWuelta/FinAPI/issues"
+  },
+  "homepage": "https://github.com/GuWuelta/FinAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
